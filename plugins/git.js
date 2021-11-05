@@ -21,6 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Jackz*
 
 *owner number wa.me/918075641889?text=Hi*
+*wizard ser wa.me/+917306103794?text=Hi*
 *bot made by jackz link theran patoola*
 
 *www.instagram.com/safar_muhmd*
