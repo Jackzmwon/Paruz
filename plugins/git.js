@@ -24,7 +24,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *wizard ser wa.me/+917306103794?text=Hi*
 *bot made by jackz*
 *coding jackz*
-*special thankz to wizard and anjali and paruzz*
+*special thankz to wizard,anjali,josephine,amfa prince and paruzz*
 
 *www.instagram.com/safar_muhmd*
 
