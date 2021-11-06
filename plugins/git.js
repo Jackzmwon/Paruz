@@ -22,11 +22,13 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 *owner number wa.me/918075641889?text=Hi*
 *wizard ser wa.me/+917306103794?text=Hi*
-*bot made by jackz link theran patoola*
+*bot made by jackz*
+*coding jackz*
+*special thankz to wizard and anjali*
 
 *www.instagram.com/safar_muhmd*
 
-*wizard ser group power akanam*
+*wizard ser group power akanam https://chat.whatsapp.com/CU6bxdI29Uk8dYg6n5DZnP*
 
 `}) 
 
