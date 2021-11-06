@@ -5,11 +5,11 @@
 <a href="#"><img title="Paruzz" src="https://img.shields.io/badge/Paruzz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/warioo/Paruz"><img title="Author" src="https://img.shields.io/badge/Author-paruzz/Paathu?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Jackzmwon/Paruz"><img title="Author" src="https://img.shields.io/badge/Author-paruzz/Paathu?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/warioo/Paruz">paruzz</a> to make it public
+Project created by <a href="https://github.com/Jackzmwon/Paruz">jackz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/warioo/Paruz">paruzz</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/warioo/Paruz">
+  <a href="https://github.com/Jackzmwon/Paruz">
     <img src="https://img.shields.io/github/repo-size/Fasil-vkn/Paathu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Fasil-vkn/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fasil-vkn?color=blue&style=flat-square"></a>
